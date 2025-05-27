@@ -29,3 +29,18 @@ cardfile/*.csv
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
